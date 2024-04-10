@@ -1,0 +1,10 @@
+Black = (0, 0, 0)
+White = (255, 255, 255)
+Yellow = (255, 255, 0)
+Gray = (128, 128, 128)
+Red = (255, 0, 0)
+Highlight = (255, 255, 0)
+line_color = Red
+text_color = Black
+line_color1 = (32, 178, 170)
+text_color1 = (32, 178, 170)
