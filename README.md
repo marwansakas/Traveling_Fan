@@ -1,3 +1,9 @@
+# Traveling Fan Problem
+
+Traveling Fan is a Python and Pygame optimization project that helps World Cup fans explore efficient stadium travel routes. It uses a genetic algorithm to search for lower-distance itineraries across the 2026 host stadiums, then visualizes the route, experiments, and gameplay-style controls with maps, charts, and screenshots.
+
+Reviewers can run the visual app with `python main.py`, inspect the genetic algorithm in `genetic_algo.py`, and run the lightweight algorithm tests with `python -m unittest discover -s tests`.
+
 <h1 align="center">Traveling Fan Problem! <img width="30" src="data/Images/fan_emoji.webp"></h1>
 <p align="center">
 <img src="data/Images/WorldCup2026.jpeg" align="center">
